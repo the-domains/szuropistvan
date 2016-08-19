@@ -5,15 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Csak egy próba poszt
-datePublished: '2016-08-19T13:22:43.187Z'
-dateModified: '2016-08-19T13:19:02.110Z'
+datePublished: '2016-08-19T13:25:31.102Z'
+dateModified: '2016-08-19T13:22:50.318Z'
 title: ''
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-19-csak-egy-proba-poszt.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: csak-egy-proba-poszt/index.html
 _type: Article
 
