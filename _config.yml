@@ -1,7 +1,7 @@
 name: szurop istván
 favicon: null
-layout_spectrum: 0.00289
-typography_spectrum: 0.49807
+layout_spectrum: 0.9736018453259021
+typography_spectrum: 0.04783360892906785
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#a2b3c7'
-    - '#12242e'
-    - '#587db2'
-    - '#405536'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4813023211900145
+  lightness: 0.7209787557367235
+  saturation: 0.3618409661576152
+  rhythmicContrast: 0.023281700909137726
 purpose: []
